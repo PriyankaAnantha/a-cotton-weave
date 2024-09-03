@@ -172,3 +172,12 @@ html, body {
     font-size: 27px;
     font-weight: 500;
 }
+
+#rotated{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: red;
+    rotate: -90deg; 
+    transform-origin: 0 0;
+}
