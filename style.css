@@ -142,3 +142,7 @@ html, body {
 #right-top h5 i{
     color: gold;
 }
+
+#right img {
+    width: 100%;
+}
