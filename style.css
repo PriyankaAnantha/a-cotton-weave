@@ -36,7 +36,7 @@ html, body {
 #right{
     height: 100%;
     width: 48%;
-    background-color: rgb(213, 80, 8);
+    /* background-color: rgb(213, 80, 8); */
    
 }
 
@@ -52,5 +52,24 @@ html, body {
 #bottom-left{
     height: 40%;
   width: 100%;
-    background-color: rgb(213, 203, 8);
+    /* background-color: rgb(213, 203, 8); */
+}
+
+#colors{
+    background-color: blue;
+    width: fit-content;
+    padding: 10px 20px;
+
+}
+
+#color1{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+}
+
+#color2{
+    height: 30px;
+    width: 30px;
+    background-color: red;
 }
