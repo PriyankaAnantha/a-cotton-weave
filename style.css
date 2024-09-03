@@ -22,7 +22,7 @@ html, body {
    /* justify-content: space-between; */
    padding: 0px 90px;
    padding-top: 150px;
-   gap: 60px;
+   gap: 70px;
 }
 
 #left{
@@ -106,7 +106,7 @@ html, body {
 
 #right{
     height: 90%;
-    width: 38%;
+    width: 30%;
     background-color: rgb(213, 80, 8); 
     position: relative;
 }
@@ -134,7 +134,7 @@ html, body {
 }
 
 
-right-top h5{
+#right-top h5{
     font-size: 16px;
     
 }
