@@ -22,6 +22,7 @@ html, body {
    /* justify-content: space-between; */
    padding: 0px 90px;
    padding-top: 150px;
+   gap: 60px;
 }
 
 #left{
@@ -115,7 +116,7 @@ html, body {
     height: 80px;
     width: 100%;
     position: absolute;
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
