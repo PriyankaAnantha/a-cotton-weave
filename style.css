@@ -119,6 +119,7 @@ html, body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0px 20px;
 
 
 }
@@ -127,5 +128,16 @@ html, body {
     font-size: 30px;
     font-family: "work sans";
     font-weight: 600;
+    /* padding-right: 20px; */
 
+}
+
+
+right-top h5{
+    font-size: 16px;
+    
+}
+
+#right-top h5 i{
+    color: gold;
 }
