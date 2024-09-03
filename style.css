@@ -30,6 +30,8 @@ html, body {
     /* background-color: rgb(190, 224, 122); */
     display: flex;
     flex-direction: column;
+    padding: 20px;
+    justify-content: space-between;
    
 }
 
@@ -50,7 +52,7 @@ html, body {
 
 
 #bottom-left{
-    height: 40%;
+    /* height: 40%; */
   width: 100%;
     /* background-color: rgb(213, 203, 8); */
 }
@@ -86,4 +88,23 @@ html, body {
     width: 20px;
     background-color: rgb(194, 140, 140);
     border-radius: 50%;
+}
+
+#left h2{
+    margin-top: 50px ;
+    font-size: 30px;
+    margin-bottom: 15px;
+
+
+}
+
+#left p{
+    font-size: 20px;
+    width: 65%;
+    font-weight: 600;
+    color: #817d7d;
+    line-height: 30px;
+
+
+
 }
