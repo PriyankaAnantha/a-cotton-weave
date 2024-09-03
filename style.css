@@ -58,18 +58,19 @@ html, body {
 #colors{
     /* background-color: blue; */
     width: fit-content;
-    padding: 10px 20px;
+    padding: 8px 20px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50px;
-    border: 2px solid black;
+    border: 1px solid black;
 
 }
 
 #colors h5{
     font-size: 20px;
     margin-right: 10px;
+    font-weight: 500;
 }
 
 #color1{
@@ -77,7 +78,7 @@ html, body {
     width: 20px;
     background-color: red;
     border-radius: 50%;
-    margin: 5px;
+    margin: 3px;
 }
 
 #color2{
