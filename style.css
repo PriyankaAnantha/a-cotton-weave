@@ -35,12 +35,6 @@ html, body {
    
 }
 
-#right{
-    height: 100%;
-    width: 48%;
-    /* background-color: rgb(213, 80, 8); */
-   
-}
 
 #left h1{
     font-size: 120px;
@@ -105,6 +99,12 @@ html, body {
     color: #817d7d;
     line-height: 30px;
 
+}
 
 
+#right{
+    height: 100%;
+    width: 48%;
+    /* background-color: rgb(213, 80, 8); */
+   
 }
