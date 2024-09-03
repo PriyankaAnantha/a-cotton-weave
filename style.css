@@ -153,5 +153,7 @@ html, body {
 #black-gola { 
     height: 100px;
     width: 100px;
+    background-color: rgb(8, 14, 28);
+    color: #fff;
     
 }
