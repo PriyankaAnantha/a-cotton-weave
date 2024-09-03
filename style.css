@@ -151,9 +151,22 @@ html, body {
 }
 
 #black-gola { 
-    height: 100px;
-    width: 100px;
-    background-color: rgb(8, 14, 28);
-    color: #fff;
-    
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 200px;
+    width: 200px;
+    background-color: rgb(123, 255, 0);
+    color: black;
+    border-radius: 50%;
+    right: 10%;
+    top: 20%;
+
+}
+
+#black-gola h5{
+    font-size: 30px;
+    font-weight: 500;
 }
