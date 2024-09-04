@@ -89,14 +89,16 @@ html, body {
 
 #left h2{
     margin-top: 50px ;
-    font-size: 30px;
+    /* font-size: 30px; */
+    font-size: 2vw;
     margin-bottom: 15px;
 
 
 }
 
 #left p{
-    font-size: 20px;
+    /* font-size: 20px; */
+    font-size: 1.2vw;
     width: 65%;
     font-weight: 600;
     color: #817d7d;
