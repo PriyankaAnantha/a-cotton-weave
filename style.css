@@ -216,14 +216,103 @@ position: absolute;
     #main {
         height: 100%;
         width: 100%;
-        background-color: red;
+        /* background-color: red; */
         display: flex;
-       align-items: flex-end;
+       align-items: flex-start;
        justify-content: space-between;
        flex-direction: column;
        padding: 40px;
        padding-top: 40px;
        gap: 70px;
     }
+
+    /* left */
+
+
+    #left{
+        height: 100%;
+        width: 100%;
+        /* background-color: rgb(190, 224, 122); */
+        display: flex;
+        flex-direction: column;
+        /* padding: 20px; */
+        padding: 1vw;
+        justify-content: space-between;
+        /* padding-bottom: 50px; */
+        padding-bottom: 3vw;
+       
+    }
+    
+    
+    #left h1{
+        /* font-size: 120px; */
+        font-size: 8.6vw;
+        /* background-color: rgb(190, 224, 122); */
+        font-weight: 500;
+        font-family: "work sans";
+        line-height: 8.7vw ;
+    }
+    
+    
+    #bottom-left{
+        /* height: 40%; */
+      width: 100%;
+        /* background-color: rgb(213, 203, 8); */
+    }
+    
+    #colors{
+        /* background-color: blue; */
+        width: fit-content;
+        padding: 8px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50px;
+        border: 1px solid black;
+    
+    }
+    
+    #colors h5{
+        font-size: 20px;
+        margin-right: 10px;
+        font-weight: 500;
+    }
+    
+    #color1{
+        height: 20px;
+        width: 20px;
+        background-color: rgb(203, 202, 190);
+        border-radius: 50%;
+        margin: 3px;
+    }
+    
+    #color2{
+        height: 20px;
+        width: 20px;
+        background-color: rgb(83, 76, 76);
+        border-radius: 50%;
+    }
+    
+    #left h2{
+        margin-top: 50px ;
+        /* font-size: 30px; */
+        font-size: 2vw;
+        margin-bottom: 15px;
+    
+    
+    }
+    
+    #left p{
+        /* font-size: 20px; */
+        font-size: 1.2vw;
+        width: 65%;
+        font-weight: 600;
+        color: #817d7d;
+        /* line-height: 30px; */
+        line-height: 1.6vw;
+    
+    }
+    
+    
 
 }
