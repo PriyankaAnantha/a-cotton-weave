@@ -77,7 +77,7 @@ html, body {
 #color1{
     height: 20px;
     width: 20px;
-    background-color: rgb(203, 202, 190);
+    background-color: rgb(255, 111, 0);
     border-radius: 50%;
     margin: 3px;
 }
@@ -85,7 +85,7 @@ html, body {
 #color2{
     height: 20px;
     width: 20px;
-    background-color: rgb(83, 76, 76);
+    background-color: rgb(179, 255, 0);
     border-radius: 50%;
 }
 
