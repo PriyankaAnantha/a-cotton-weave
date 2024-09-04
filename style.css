@@ -39,11 +39,12 @@ html, body {
 
 
 #left h1{
-    font-size: 120px;
+    /* font-size: 120px; */
+    font-size: 8.6vw;
     /* background-color: rgb(190, 224, 122); */
     font-weight: 500;
     font-family: "work sans";
-    line-height:150px ;
+    line-height: 8.7vw ;
 }
 
 
@@ -204,6 +205,6 @@ position: absolute;
 
 
 /* responsiveness  */
-@media (max-width) {
+@media (max-width: 600px) {
     
 }
