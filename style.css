@@ -31,9 +31,11 @@ html, body {
     /* background-color: rgb(190, 224, 122); */
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    /* padding: 20px; */
+    padding: 1vw;
     justify-content: space-between;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
+    padding-bottom: 3vw;
    
 }
 
@@ -210,4 +212,18 @@ position: absolute;
 /* responsiveness  */
 @media (max-width: 600px) {
     
+
+    #main {
+        height: 100%;
+        width: 100%;
+        background-color: red;
+        display: flex;
+       align-items: flex-end;
+       justify-content: space-between;
+       flex-direction: column;
+       padding: 0px 90px;
+       padding-top: 150px;
+       gap: 70px;
+    }
+
 }
